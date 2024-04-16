@@ -1,0 +1,3 @@
+- workspace for Proteus 8 Professional
+- compiler used MPBLABX XC8
+- all workspaces use the same 7 segment led controller
